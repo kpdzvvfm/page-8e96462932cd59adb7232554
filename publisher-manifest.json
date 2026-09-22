@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a24543d462e549646c3749f4",
+  "owner": "kpdzvvfm",
+  "repo": "page-8e96462932cd59adb7232554",
+  "title": "BASHBORAD",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e96462932cd59adb7232554",
+      "a": "BASHBORAD",
+      "b": "稳定全球clash加速器",
+      "entity": "BASHBORAD",
+      "brand": "BASHBORAD",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ccc4ada17a4487715d95f483c99bf77a3a3a68a792bdd86d904586e594d38b64",
+      "content": {
+        "primary_entity": "BASHBORAD",
+        "keyword1": "BASHBORAD",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，参考配置文档导入订阅。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "从套餐到订阅",
+          "AI_DESCRIPTION": "，聚焦多设备环境下的订阅管理与套餐选择。BASHBORAD 提供基础版、旗舰版与团队版三档方案，分别覆盖 100GB、300GB 与 1000GB 月流量，支持 3 台、5 台与 20 台设备同时在线。旗舰版含 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版提供 VIP 专属高带宽节点与企业定制路由。客户端覆盖常见桌面与移动系统，订阅导入后可统一管理节点与流量。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度选择套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化，团队版含 VIP 专属高带宽节点，适合对线路质量敏感的场景。",
+          "AI_FEATURE_TEXT_3": "月付与年付两种周期，按年付可节省约两个月费用，长期使用可优先考虑年付方案。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路与场景",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "选定套餐、确认设备数、导入订阅三步完成。",
+          "AI_GUIDE_TITLE": "使用路径",
+          "AI_HERO_INTRO": "BASHBORAD 面向多设备用户提供订阅式加速服务，套餐覆盖个人到团队场景。基础版、旗舰版与团队版分别对应不同流量额度与在线设备数，旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由。按客户端文档导入订阅，即可在常用设备上统一管理节点与流量。",
+          "AI_HERO_SUBTITLE": "多设备订阅与套餐选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_3": "按年付节省约两个月费用",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与线路，团队版面向多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量与常用设备数量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，核对支持的在线设备数是否满足需求。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，完成节点配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "BASHBORAD 多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合每月流量 100GB 以内、同时在线 3 台设备的个人用户；旗舰版与团队版则面向更大用量、更多设备或需要专线优化的场景。",
+          "AI_FAQ_ANSWER_2": "打开所订阅版本的客户端下载说明，按系统版本安装后复制订阅链接导入。不同客户端导入位置略有差异，参照对应文档操作即可完成。",
+          "AI_FAQ_ANSWER_3": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出可换更高设备数的版本，或减少单设备登录数量。",
+          "AI_FAQ_ANSWER_4": "可以。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用分摊到每月更划算。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化与 7x24 优先工单，对延迟敏感的应用可按此版本选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅导入客户端的步骤复杂吗？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量有多少限制？",
+          "AI_FAQ_QUESTION_4": "年付比月付便宜多少？",
+          "AI_FAQ_QUESTION_5": "哪个版本适合游戏加速？",
+          "AI_FAQ_TITLE": "订阅与套餐常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xnskfgn.cn",
+    "host": "xnskfgn.cn"
+  },
+  "file_hashes": {
+    "index.html": "98dfdafb8e4300c78c128bf703ef2538bf52fcf31e54b414aa4db7dcac093630",
+    "sitemap.xml": "eeb45c8d43b8f79597bcfca367c7fae1c9ace38667e3c6b41aa71c7f2eab4ea2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "73972e57112664bcaa0d08648a02bd567ffb8061406832e682e00f4eaa9562df",
+    "robots.txt": "64741d3929c5f97f18d6a73aa7f96a2f67c1b5467d7417d8e4ffee48f2b5eec3",
+    "2c7134f9956f35a3dff27bde52f3e77b.txt": "118f48cd629c9c1cabc8552fcc0c65c7a95230a8ea9d5e7464a2634015690825"
+  },
+  "revision": "6256b51807fb55edf00a434627178e452073fbc7552f891e79bc5af58fdb3a9a"
+}
